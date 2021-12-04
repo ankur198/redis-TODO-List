@@ -16,6 +16,8 @@ node .
 ```
 After these instructions, open your browser and go to the next url [http://localhost:3000/](http://localhost:3000/)
 
+You can change redis host by setting `db_host` environment variable.
+
 ### Details about the project and code
 ---
 * The server where the data is storage is Redis and it is saving the data in a list element.
